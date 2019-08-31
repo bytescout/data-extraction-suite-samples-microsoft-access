@@ -1,0 +1,3 @@
+## Index of source code examples:
+
+\Read barcode from pdf file with barcode reader sdk
